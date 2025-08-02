@@ -34,7 +34,7 @@ class Config:
     """Configuration class with validation"""
     API_ID: int = 28902210
     API_HASH: str = "0a3d884a11fa085cd872250a2140e344"
-    BOT_TOKEN: str = "8146980022:AAEPi_HIbbaevGb9LhYelfY_kMFW6djCKXs"
+    BOT_TOKEN: str = "8146980022:AAF1HSB-DcEYZW3LA7PBYlT3kcsgwE7PKeQ"
 
     # Performance settings
     MAX_CONCURRENT_TRANSLATIONS: int = 8
@@ -717,4 +717,5 @@ def main():
 
 
 if __name__ == "__main__":
+
     main()
